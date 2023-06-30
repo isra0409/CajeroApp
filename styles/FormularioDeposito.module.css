@@ -1,0 +1,37 @@
+.containerFlex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    position: relative;
+    left: 4rem;
+}
+
+.titlePesos{
+    position: relative;
+    right: 2rem;
+    font-weight: 400;
+}
+
+.titleCantidad{
+    position: relative;
+    left: 2.6rem;
+    font-weight: 400;
+}
+
+.itemRow{
+    display: flex;
+
+}
+
+.inputsTxt{
+    width: 105px;
+    left: 2rem;
+}
+
+.pesos{
+    padding-right: 2rem;
+    font-weight: 500;
+}
+

@@ -1,0 +1,11 @@
+
+{
+    "users": [
+      { "id": 1, "name": "Franco", "clave": "1235", "dni":"12345678","accountNumber" : "asd123", "balance": 700, "datoNuevo": 1 , "extraccionMonto" : 1},
+      { "id": 2, "name": "Matias", "clave": "1145", "dni":"42551215","accountNumber" : "asd123", "balance": 200, "datoNuevo": 2, "extraccionMonto" : 2},
+      { "id": 3, "name": "Leonel", "clave": "6341", "dni":"45123612","accountNumber" : "asd123", "balance": 120, "datoNuevo": 3, "extraccionMonto" : 3},
+      { "id": 4, "name": "Neri", "clave": "3226", "dni":"36612331","accountNumber" : "asd123", "balance": 700, "datoNuevo": 4, "extraccionMonto" : 4},
+      { "id": 5, "name": "JF", "clave": "1234", "dni":"12345679","accountNumber" : "asd123", "balance": 0, "datoNuevo": 5, "extraccionMonto" : 5},
+      { "id": 6, "name": "JB", "clave": "1233", "dni":"12345670","accountNumber" : "asd123", "balance": -100, "datoNuevo": 6, "extraccionMonto" : 6}
+    ]
+}

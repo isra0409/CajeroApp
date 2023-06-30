@@ -1,0 +1,12 @@
+.titleMonto{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    margin-bottom: 3rem;
+}
+
+.btnCancelar{
+    position: relative;
+    top: 5.2rem;
+    left: 10rem;
+}

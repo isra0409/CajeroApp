@@ -1,0 +1,30 @@
+.contenedor{
+    position: relative;
+    top: 10rem;
+}
+
+.titles{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 30px;
+    margin-bottom: 4rem;
+}
+
+.titleSub{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 16px;  
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    /* align-items: center; */
+    /* margin: 0; */
+    justify-content: space-evenly;
+    margin: auto;
+}

@@ -1,0 +1,19 @@
+
+.boxExtraccionExitosa{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    top: 3rem;
+    border: solid;
+    width: 90%;
+    margin: auto;
+    padding: 200px 0px 200px 0px;
+}
+
+.txtExtraccionExitosa{
+    font-size: 26px;
+    font-weight: 400;
+    margin: 1rem 0px 0px 0px;
+}

@@ -1,0 +1,12 @@
+.containerForm{
+    position: relative;
+    /* width: 20px; */
+    width: 25%;
+    /* margin: auto; */
+    left: 7rem;
+    margin: auto;
+}
+
+.btnCancelar{
+    background-color: pink;
+}

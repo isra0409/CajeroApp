@@ -1,0 +1,20 @@
+.modal{
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(150, 150, 150);
+    display: none;  
+}
+
+.modal.isOpen{
+    display: none;
+}
+
+
+
+
+
+

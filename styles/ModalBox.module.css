@@ -1,0 +1,11 @@
+.boxModalFlex{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.btnModal{
+    width: 160px;
+    margin: auto;
+    margin-top: 2rem; 
+}

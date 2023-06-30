@@ -1,0 +1,13 @@
+.containerTeclado{
+    width: 330px;
+    margin: auto;
+}
+
+.itemsTeclado{
+    padding: 0px 0px 10px 0px;
+}
+
+.btns{
+    width: 85px;
+    height: 60px;
+}

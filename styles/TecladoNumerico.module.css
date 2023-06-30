@@ -1,0 +1,25 @@
+.containerTecladoDeposito{
+    position: relative;
+
+    @media (max-width: 1920px){
+        width: 50%
+    }
+
+    @media (max-width: 1536px){
+        width: 55%
+    }
+
+    @media (max-width: 1280px){
+        width: 70%
+    }
+
+    /* @media (max-width: 720px){
+        flex-direction:column;
+    } */
+
+}
+
+.btns{
+    width: 85px;
+    padding: 10px;
+}
